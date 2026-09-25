@@ -33,6 +33,12 @@ The sales team needed a solution to:
 
 ## Custom Fields
 
+![Opportunity Custom Fields 1](opportunity-custom-fields-1.png)
+
+![Opportunity Custom Fields 2](opportunity-custom-fields-2.png)
+
+![Opportunity Custom Fields 3](opportunity-custom-fields-3.png)
+
 Custom fields were added to the Opportunity object to support the business process, including:
 
 - Deal Priority
@@ -43,6 +49,8 @@ Custom fields were added to the Opportunity object to support the business proce
 - Follow-Up Date
 
 ## Flow Automation
+
+![Opportunity Deal Priority Flow](opportunity-deal-priority-flow.png)
 
 A Record-Triggered Flow named **Opportunity Deal Priority Automation** was created for the Opportunity object.
 
@@ -58,6 +66,8 @@ The Flow was debugged, tested, and activated successfully.
 
 ## Validation Rules
 
+![Opportunity Validation Rules](opportunity-validation-rules.png)
+
 Two validation rules were implemented to improve data quality and enforce business requirements.
 
 ### Require Risk Notes for High Risk
@@ -71,6 +81,8 @@ When **Executive Approval Required** is selected, the appropriate approval statu
 Both validation rules were tested successfully.
 
 ## Security and Access
+
+![Opportunity Permission Set](opportunity-permission-set.png)
 
 A custom Permission Set named **Opportunity Deal Management** was created.
 
@@ -124,6 +136,20 @@ Testing included:
 Salesforce Administration | Flow Builder | Record-Triggered Flows | Validation Rules | Permission Sets | Field-Level Security | Opportunity Management | Reports | Dashboards | Data Quality | Testing & Debugging
 
 ## Project Type
+
+## Key Takeaways
+
+This project demonstrates hands-on Salesforce Administrator experience in:
+
+- Opportunity management and customization
+- Record-Triggered Flow automation
+- Validation rules and data quality
+- Permission Sets and field-level security
+- Reports and dashboards
+- Business process automation
+- Testing and troubleshooting
+
+The solution was designed using Salesforce declarative and low-code capabilities following administrator best practices.
 
 **Salesforce Administrator Portfolio Project**
 
