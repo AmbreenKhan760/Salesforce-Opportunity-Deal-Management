@@ -94,7 +94,7 @@ These reports provide sales managers with visibility into important deals, risk,
 
 ## Dashboard
 
-![Opportunity Deal Management Dashboard](Screenshot%202026-09-25%20093932.png)
+![Opportunity Deal Management Dashboard](opportunity-deal-management-dashboard.png)
 
 An **Opportunity Deal Management Dashboard** was created using the project reports.
 
